@@ -48,14 +48,4 @@ League Tab: Front Page, Standings, Matches, Trash Talk, League Schedule (optiona
 
 
 
-
-who your app/project serves (who is the user)
-what information the app tracks for them or provides for them
-what the backend/database tracks about your users
-what the overall user concepts are you'd like the app center on
-Ex: email apps: have an INBOX, which tracks MESSAGEs, and a way to COMPOSE a MESSAGE
-Ex: spreadsheet: has a matrix of CELLs that can hold NUMBERs, TEXT or FORMULAs
-Ex: phonebook: has a list of CONTACTs, each of which can have many PHONENUMBERs
-what problems does your app/project solve
-is is modelled after another app, if so, how is your different
-The app can be a mobile app or a desktop/laptop app, so dream big.
+William Xu
